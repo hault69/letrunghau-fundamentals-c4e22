@@ -1,0 +1,2 @@
+range tao khoang
+>>> r3 = range(1,5,2) 2 la step
